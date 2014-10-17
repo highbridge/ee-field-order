@@ -1,0 +1,16 @@
+{
+  "name": "ee-field-order",
+  "version": "1.0.0",
+  "description": "Re-order Expression Engine fields based on the order in corresponding templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michaelroth <mroth@highbridgecreative.com>",
+  "dependencies": {
+    "glob": "^4.0.6",
+    "lazy": "^1.0.11",
+    "mysql": "^2.5.2",
+    "underscore": "^1.7.0"
+  }
+}
